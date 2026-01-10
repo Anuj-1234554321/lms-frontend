@@ -1,12 +1,15 @@
 
 import './App.css'
-
+import Footer from'./Components/Footer.jsx'
 function App() {
  
   return (
    <> 
-   <Routes></Routes>
- <h1 className="text-3xl font-bold">LMS</h1>
+   {/* <Routes>
+
+   </Routes> */}
+ <Footer/>
+
    </>
   )
 }
