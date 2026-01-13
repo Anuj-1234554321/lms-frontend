@@ -4,6 +4,7 @@ import homePageMainImage from "../Assets/Images/homePageMainImage.png";
 function HomePage() {
     return (
         <HomeLayouts>
+            
            <div className="pt-10 text-white flex item-center justify-center gap-10 mx-16 h-[90vh]">
               <div className="w-1/2 space-y-6">
               <h1 className="text-4xl font-semibold">find our best 
